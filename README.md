@@ -37,11 +37,6 @@ This project is a simple chatbot implemented using Flask, Python, and a pre-trai
 
 ## ✨ Author
 
-|             Name            |      NIM       |       Job Desk       |
-| --------------------------- | -------------- |----------------------|
-| Afrizal Mukti Pramutiansyah | A11.2019.11893 | Chatbot              |
-| Bima Rakajati               | A11.2020.13088 | Flask                |
-
 ## 📙 Reference
 
 Thanks to their great works：
